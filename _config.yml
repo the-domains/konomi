@@ -2,6 +2,7 @@ name: konomi
 favicon: null
 layout_spectrum: 0.10321627533994615
 typography_spectrum: 0.22105446876958013
+title: konomi
 cta:
   domain: null
   bucket: null
