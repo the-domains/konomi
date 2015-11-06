@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 3D-printed Floating Planetarium Model
-datePublished: '2015-11-06T19:52:58.484Z'
-dateModified: '2015-11-06T19:52:55.953Z'
+datePublished: '2015-11-06T19:55:21.175Z'
+dateModified: '2015-11-06T19:54:45.544Z'
 title: works
 sourcePath: _posts/2015-11-06-3d-printed-floating-planetarium-model.md
 published: true
