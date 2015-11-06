@@ -1,6 +1,6 @@
 name: konomi
 favicon: null
-layout_spectrum: 0.10321627533994615
+layout_spectrum: 0.06168
 typography_spectrum: 0.22105446876958013
 title: konomi
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8620284150820225
+  brandStrength: 0.875
   lightness: 0.14076640596613288
   saturation: 0.18128650588914752
   rhythmicContrast: 0.18779347161762416
